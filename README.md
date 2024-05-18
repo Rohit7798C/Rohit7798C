@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit7798c&label=Profile%20views&color=0e75b6&style=flat" alt="rohit7798c" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit7798c" alt="rohit7798c" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rohitz_c" target="blank"><img src="https://img.shields.io/twitter/follow/rohitz_c?logo=twitter&style=for-the-badge" alt="rohitz_c" /></a> </p>
 

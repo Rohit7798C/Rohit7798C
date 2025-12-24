@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **An Internship in Front End Development**
 
-- 💬 Ask me about **Android,MERN**
+- 💬 Ask me about **Android,MERN,C++**
 
 - 📫 How to reach me **rohitchauhanrc777@gmail.com**
 

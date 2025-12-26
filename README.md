@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://rohitchauhan.io)
 <h1 align="center">Hi 👋, I'm Rohit Rajkumar Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate C++ & Frontend developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit7798c&label=Profile%20views&color=0e75b6&style=flat" alt="rohit7798c" /> </p>

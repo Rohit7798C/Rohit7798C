@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitz_c" target="blank"><img src="https://img.shields.io/twitter/follow/rohitz_c?logo=twitter&style=for-the-badge" alt="rohitz_c" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack,C++**
+- 🌱 I’m currently learning **MERN Stack,C++,MFC**
 
 - 🤝 I’m looking for help with **An Internship in Front End and C++ Development**
 

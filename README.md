@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack,C++,MFC**
 
-- 🤝 I’m looking for help with **An Internship in Front End and C++ Development**
+- 🤝 I’m looking for help with **An Internship in C++ Development**
 
 - 💬 Ask me about **MERN,C++**
 

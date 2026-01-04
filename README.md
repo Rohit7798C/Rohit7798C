@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **An Internship in C++ Development**
 
-- 💬 Ask me about **MERN,C++**
+- 💬 Ask me about **C++,MFC**
 
 - 📫 How to reach me **rohitchauhanrc777@gmail.com**
 

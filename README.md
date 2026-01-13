@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++,MFC**
 
-- 🤝 I’m looking for help with **An Internship in C++ Development**
+- 🤝 I’m looking for help with **C++ Development**
 
 - 💬 Ask me about **C++,MFC**
 

@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit7798c&show_icons=true&locale=en&layout=compact" alt="rohit7798c" /></p>
 
-<a href = "https://rohit-chauhan-dev-a2unqu7.gamma.site/">rohit7798</a>
+<a href = "https://rohit-chauhan-dev-a2unqu7.gamma.site/">[rohit7798](https://github.com/Rohit7798C)</a>

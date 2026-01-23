@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **C++ Development**
 
-- 💬 Ask me about **C++,MFC**
+- 💬 Ask me about **C++,MFC, Problem Solving**
 
 - 📫 How to reach me **rohitchauhanrc777@gmail.com**
 
